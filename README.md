@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielBoigk
-- 🌱 I’m currently learning mathematics at an university
+- 🌱 Currently learning mathematics at an university
 
 <!---
 DanielBoigk/DanielBoigk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
