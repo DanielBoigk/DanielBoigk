@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DanielBoigk
-- 🌱 Currently learning mathematics at an university
+- 🌱 Currently studying mathematics at TU Chemnitz
+- I love programming in Julia as you might see.
 
 <!---
 DanielBoigk/DanielBoigk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
