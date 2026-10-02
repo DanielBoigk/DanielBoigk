@@ -4,7 +4,7 @@
 - I love programming in Julia as you might see.
 - But also can do some Python, Rust, C++ an Lean4 (Although compared to my Julia experience it's rather lackluster)
 
-Fancy research project: [Lenticulumjl](https://mathstruct.org/Lenticulum.jl/dev/vault/)
+Fancy research project: [Lenticulum.jl](https://mathstruct.org/Lenticulum.jl/dev/vault/)
 
 Fancy vibe coded project: [Moonkale](https://mathstruct.org/Moonkale)
 
