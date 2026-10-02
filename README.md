@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Boigk
 - 🌱 My major is mathematics
-- Knows about optimization on PDE's and Machine Learning
-- I love programming in Julia as you might see.
+- Know about optimization on PDE's and Machine Learning
+- I like programming in Julia as you might see.
 - But also can do some Python, Rust, C++ an Lean4 (Although compared to my Julia experience it's rather lackluster)
 
 Fancy research project: [Lenticulum.jl](https://mathstruct.org/Lenticulum.jl/dev/vault/)
