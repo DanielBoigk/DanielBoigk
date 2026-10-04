@@ -1,17 +1,39 @@
-- 👋 Hi, I’m Daniel Boigk
-- 🌱 My major is mathematics
-- Know about optimization on PDE's and Machine Learning
-- I like programming in Julia as you might see.
-- But also can do some Python, Rust, C++ an Lean4 (Although compared to my Julia experience it's rather lackluster)
+# Hi, I'm Daniel Boigk 👋
 
-Fancy research project: [Lenticulum.jl](https://mathstruct.org/Lenticulum.jl/dev/vault/)
+🔬 I work on **inverse problems for PDEs** and **machine learning**, mostly in **Julia**:
+learned priors for inverse problems, and models that learn *relations* rather than functions.
 
-Fancy vibe coded project: [Moonkale](https://mathstruct.org/Moonkale)
+## 🧩 Projects
 
-Papers & books should be parsed into Wikis. LLMs can now just remove boilerplate. Consider the amount of mouse clicks & scrolling one had to to go from a DOI link to actually finding the information one needed. With this overhead removed one can now finally think about the actual subjects instead of constantly getting distracted on the path.
+- 🔁 **[Lenticulum.jl](https://github.com/MathStruct/Lenticulum.jl)**: learned *relations* instead
+  of functions. One model answers a query in any direction (forward, inverse, mixed); inference
+  is root-finding, backpropagation the implicit function theorem.
+  [Tutorials](https://mathstruct.org/Lenticulum.jl/dev/tutorials/01_circle/) (also as Jupyter
+  notebooks) · [theory vault](https://mathstruct.org/Lenticulum.jl/dev/vault/) ·
+  [references](https://mathstruct.org/Lenticulum.jl/dev/references/)
+- ⚡ **[EITDenoiser.jl](https://github.com/DanielBoigk/EITDenoiser.jl)**: diffusion priors for
+  Electrical Impedance Tomography, an ill-posed PDE inverse problem (Lux + Reactant + Enzyme).
+- 🧱 **[ModularEIT.jl](https://github.com/DanielBoigk/ModularEIT.jl)**: an EIT library built from
+  exchangeable parts (finite elements, electrode models, adjoint gradients, regularisers, fast
+  linear solvers), with [API docs](https://danielboigk.github.io/ModularEIT.jl/dev/) and a
+  [theory wiki](https://danielboigk.github.io/ModularEIT.jl/dev/wiki/).
+- 🕸️ **[Moonkale](https://mathstruct.org/Moonkale)**: a graph-native editor for knowledge and code,
+  an experiment in building a larger application largely with AI.
 
-Somewhat of a website: [mathstruct.org](https://mathstruct.org)
-<!---
-DanielBoigk/DanielBoigk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤝 Contributed to [SciML/ReservoirComputing.jl](https://github.com/SciML/ReservoirComputing.jl/pull/413)
+(Wigner-initialised symmetric random matrices).
+
+## 💬 Languages
+
+Julia (main). Some Python, Rust and C++. Lean 4 at the level of the Lean 4 game.
+
+## 🛠️ How I work
+
+✅ I write code with AI assistants and treat correctness as my job: checks against closed-form
+solutions, honest baselines, and stated limitations.
+
+📚 I think papers and books should be parsed into linked wikis: once LLMs remove the boilerplate
+between a DOI and the information you need, you can think about the subject instead of the path
+to it.
+
+🌐 More at [mathstruct.org](https://mathstruct.org).
