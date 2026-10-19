@@ -9,7 +9,7 @@ learned priors for inverse problems, and models that learn *relations* rather th
   of functions. One model answers a query in any direction (forward, inverse, mixed); inference
   is root-finding, backpropagation the implicit function theorem.
   [Tutorials](https://mathstruct.org/Lenticulum.jl/dev/tutorials/01_circle/) (also as Jupyter
-  notebooks) · [theory vault](https://mathstruct.org/Lenticulum.jl/dev/vault/) ·
+  notebooks) · [theory vault](https://mathstruct.org/Lenticulum.jl/) ·
   [references](https://mathstruct.org/Lenticulum.jl/dev/references/)
 - ⚡ **[EITDenoiser.jl](https://github.com/DanielBoigk/EITDenoiser.jl)**: diffusion priors for
   Electrical Impedance Tomography, an ill-posed PDE inverse problem (Lux + Reactant + Enzyme).
