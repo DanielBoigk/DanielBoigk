@@ -33,7 +33,7 @@ Julia (main). Some Python, Rust and C++. Lean 4 at the level of the Lean 4 game.
 solutions, honest baselines, and stated limitations.
 
 📚 I think papers and books should be parsed into linked wikis: once LLMs remove the boilerplate
-between a DOI and the information you need, you can think about the subject instead of the path
+between the search effort and the information you need, you can think about the subject instead of the path
 to it.
 
 🌐 More at [mathstruct.org](https://mathstruct.org).
